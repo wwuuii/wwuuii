@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🤔 个人项目：[智能BI平台](https://github.com/wwuuii/yubi-frontend-public)
+- 🤔 个人项目：[智能BI平台](https://github.com/wwuuii/yubi-frontend-public) | [寻友]([wwuuii/xunyou-frontend-public (github.com)](https://github.com/wwuuii/xunyou-frontend-public))
+- 🔭 I am looking for a job.
+- 📫 codelearn888@163.com
